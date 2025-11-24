@@ -12,12 +12,13 @@
     "react-dom": "^18.2.0",
     "lucide-react": "^0.317.0"
   },
-"devDependencies": {
-  "autoprefixer": "^10.4.14",
-  "postcss": "^8.4.24",
-  "postcss-load-config": "^4.0.0",
-  "tailwindcss": "^4.1.17",
-  "@tailwindcss/postcss": "^4.1.17",
-  "vite": "^5.0.0"
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "postcss-load-config": "^4.0.0",
+    "tailwindcss": "^4.1.17",
+    "@tailwindcss/postcss": "^4.1.17",
+    "vite": "^5.0.0"
+  }
 }
-}
+
